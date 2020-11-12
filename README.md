@@ -1,5 +1,8 @@
 # NLP.js workshop
-### TABLE OF CONTENTS
+
+![](./images/capture00.png)
+
+## TABLE OF CONTENTS
 
 <!--ts-->
 
