@@ -2,9 +2,16 @@
 
 ![](./images/capture00.png)
 
+You must have node.js installed, I recommend version 14 or newer.
+Remember to create a folder for the workshop and run:
+```shell
+  npm init
+```
+
 ## TABLE OF CONTENTS
 
 <!--ts-->
 
 - [Introduction](doc/01-introduction.md)
-  <!--te-->
+- [Tokenization](doc/02-tokenization.md)
+<!--te-->
