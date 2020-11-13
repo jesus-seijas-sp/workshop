@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/jesus-seijas-sp/workshop#readme",
   "dependencies": {
-    "@nlpjs/lang-en": "^4.14.0"
+    "@nlpjs/lang-en": "^4.14.0",
+    "@nlpjs/lang-es": "^4.14.0",
+    "@nlpjs/neural": "^4.12.0",
+    "@nlpjs/utils": "^4.14.4"
   }
 }

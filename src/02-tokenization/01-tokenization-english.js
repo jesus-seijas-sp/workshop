@@ -3,6 +3,7 @@ const { TokenizerEn } = require('@nlpjs/lang-en');
 
 // Create a new instance of the tokenizer
 const tokenizerEn = new TokenizerEn();
+
 const input = 'I didn\'t finish those tasks. i\'ll finish tomorrow';
 // Tokenization without normalization
 let tokens = tokenizerEn.tokenize(input);

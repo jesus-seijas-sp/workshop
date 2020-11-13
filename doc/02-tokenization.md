@@ -50,3 +50,32 @@ Just providing "true" as second paramter to tokenizer, representing that you wan
 tokens = tokenizerEn.tokenize(input, true);
 console.log(tokens);
 ```
+
+## Tokenization in spanish (as example of other languages)
+
+First at all, install the library for the spanish language.
+
+```shell
+  npm i @nlpjs/lang-es
+```
+
+Now require the class **TokenizerEs** and create a new instance.
+
+```javascript
+const { TokenizerEs } = require('@nlpjs/lang-es');
+
+const tokenizerEs = new TokenizerEs();
+```
+
+Then you can tokenize with or without normalization:
+
+```javascript
+const input = 'Todavía no he terminado esas tareas, las terminaré mañana';
+// Tokenization without normalization
+let tokens = tokenizerEs.tokenize(input);
+console.log(tokens);
+
+// Tokenization with normalization
+tokens = tokenizerEs.tokenize(input, true);
+console.log(tokens);
+```
