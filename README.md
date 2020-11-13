@@ -14,4 +14,5 @@ Remember to create a folder for the workshop and run:
 
 - [Introduction](doc/01-introduction.md)
 - [Tokenization](doc/02-tokenization.md)
+- [Classification](doc/03-classification.md)
 <!--te-->
