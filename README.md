@@ -17,4 +17,5 @@ Remember to create a folder for the workshop and run:
 - [Classification](doc/03-classification.md)
 - [Confusion Matrix](doc/04-confusion-matrix.md)
 - [Stemming](doc/05-stemming.md)
+- [NLU](doc/06-nlu.md)
 <!--te-->
