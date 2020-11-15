@@ -56,3 +56,6 @@ const process = (utterance, input) => input.process(utterance);
 
 ## Benchmark
 ![](../images/capture12.png)
+
+## NLU Structure
+![](../images/capture13.png)
