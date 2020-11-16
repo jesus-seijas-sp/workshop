@@ -26,4 +26,5 @@ Remember to create a folder for the workshop and run:
   - [Directline Connector](doc/11-directline-connector.md)
   - [NER and Context](doc/12-nlp-with-ner.md)
   - [Save Context into MongoDB](doc/13-nlp-with-mongodb.md)
+  - [On Intent](doc/14-nlp-on-intent.md)
 <!--te-->

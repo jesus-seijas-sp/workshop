@@ -6,6 +6,4 @@ const { dockStart } = require('@nlpjs/basic');
   await database.connect();
   const nlp = dock.get('nlp');
   await nlp.train();
-  const consoleConnector = dock.get('console');
-  consoleConnector.say('Say something');
 })();
