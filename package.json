@@ -18,6 +18,7 @@
   "homepage": "https://github.com/jesus-seijas-sp/workshop#readme",
   "dependencies": {
     "@nlpjs/basic": "^4.16.0",
+    "@nlpjs/bot": "^4.16.3",
     "@nlpjs/database": "^4.14.3",
     "@nlpjs/directline-connector": "^4.16.0",
     "@nlpjs/evaluator": "^4.16.0",

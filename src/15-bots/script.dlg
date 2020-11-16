@@ -1,0 +1,4 @@
+# Script for a simple turn conversation
+import corpus-ner.dlg
+dialog main
+  nlp
