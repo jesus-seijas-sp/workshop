@@ -1,4 +1,4 @@
-# Console Connector
+# Directline Connector
 
 ## Installation
 
