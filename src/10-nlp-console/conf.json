@@ -1,0 +1,10 @@
+{
+  "settings": {
+    "nlp": {
+      "corpora": [
+        "../../data/corpus-smalltalk-en.json"
+      ]
+    }
+  },
+  "use": ["Basic", "LangEn", "ConsoleConnector"]
+}
