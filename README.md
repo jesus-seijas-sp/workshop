@@ -23,5 +23,5 @@ Remember to create a folder for the workshop and run:
 - [NLP](doc/09-nlp.md)
   - [Basic Usage](doc/09-nlp.md)
   - [Console Connector](doc/10-console-connector.md)
-  - [Directline Connector](doc/11-console-connector.md)
+  - [Directline Connector](doc/11-directline-connector.md)
 <!--te-->
