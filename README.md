@@ -27,4 +27,7 @@ Remember to create a folder for the workshop and run:
   - [NER and Context](doc/12-nlp-with-ner.md)
   - [Save Context into MongoDB](doc/13-nlp-with-mongodb.md)
   - [On Intent](doc/14-nlp-on-intent.md)
+- [Bots](doc/15-bots.md)
+  - [Corpus Format](doc/15-bots.md)
+  - [Dialogs](doc/16-bots-dialogs.md)
 <!--te-->

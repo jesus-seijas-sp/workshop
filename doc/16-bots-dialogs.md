@@ -18,7 +18,7 @@ import corpus-ner.dlg
 dialog main
   nlp
 dialog openclaim
-  [!userName] run askName
+  run askName
   say Hello {{ userName }}. Tell me what happened
   ask reason
   say Thank you {{ userName }}! we are processing your claim!
